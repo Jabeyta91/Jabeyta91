@@ -4,8 +4,8 @@ Hi there my name is jerrell-->
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Data Entry/Accounting</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Jabeyta91/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Jabeyta91/post-install-config)
+  - [Data Visualization](https://github.com/Jabeyta91/Data Entry)
+  - [Accounting](https://github.com/Jabeyta91/Income statement)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jabeyta91/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jabeyta91/configure-ad)
