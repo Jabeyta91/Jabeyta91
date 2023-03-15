@@ -3,7 +3,7 @@ Hi there my name is jerrell-->
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Data Entry/Accounting</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jabeyta91/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Jabeyta91/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jabeyta91/ticket-lifecycle)
