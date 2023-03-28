@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jabeyta91/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jabeyta91/azure-network-protocols)
 - <b>Data Entry</b>
-  -  [osTicket: Prerequisites and Installation](https://github.com/Jabeyta91/osticket-prereqs)
+  -  [osTicket: Prerequisites and Installation](https://github.com/Jabeyta91/Data-Entry)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
